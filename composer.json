@@ -1,7 +1,5 @@
 {
-  "name": "sh1v4txja/anons",
-  "description": "My PHP project hosted on DigitalOcean App Platform",
-  "require": {
-    "php": "^8.0"
-  }
+    "name": "sh1v4txja/anons",
+    "description": "no",
+    "require": {}
 }
